@@ -1,0 +1,4 @@
+cmake-build-debug_pragma/*
+cmake-build-debug_pragma_omp/*
+cmake-build-debug/*
+CMakeLists.txt
